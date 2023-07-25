@@ -7,7 +7,7 @@ const StreakCards = ({streak}) => {
 
     const CallBack = (status) => {
         setCurrentStatus(status)
-
+ 
     }
 
     return ( 
